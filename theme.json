@@ -1,0 +1,37 @@
+{
+  "imagesZipUri": "24hr-KCDII-ZhelejovWagonersInn.ddw",
+  "imageFilename": "24hr-KCDII-ZhelejovWagonersInn_*.jpg",
+  "imageCredits": "Florian Wagenknecht",
+  "displayName": "Kingdom Come: Deliverance II - Zhelejov Wagoner's Inn",
+  "sunriseImageList": [
+    19,
+    20,
+    21
+  ],
+  "dayImageList": [
+    22,
+    23,
+    24,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "sunsetImageList": [
+    10,
+    11,
+    12
+  ],
+  "nightImageList": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ]
+}
